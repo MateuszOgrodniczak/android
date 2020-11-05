@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="about_text">This is a calculator application with both simple and scientific versions. Made by Mateusz Ogrodniczak, 2019.</string>
+    <string name="back_text">Go back</string>
+</resources>
